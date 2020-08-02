@@ -1,7 +1,7 @@
 # description
-# review typescript
-# mkdir classify files
-# record day day study
+1. review typescript
+2. mkdir classify files
+3. record day day study
 ```
 study
 ```
