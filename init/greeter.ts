@@ -1,6 +1,7 @@
 class Student {
   fullName: string;
-  constructor(public firstName, public middleInitial, public lastName) {
+  constructor(public firstName, public middleInitial, public lastName) { 
+    // 相当于声明且定义了this.firstName, this.middleInitial, this.lastName
     this.fullName = firstName + ' ' + middleInitial + ' ' + lastName;
   }
 }
